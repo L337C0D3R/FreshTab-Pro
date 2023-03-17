@@ -1,9 +1,11 @@
 <p align="center">
-  <img width="128" height="128" src="https://raw.githubusercontent.com/L337C0D3R/FreshTab-Pro/main/assets/icon128.png">
+  <img width="128" height="128" src="https://raw.githubusercontent.com/L337C0D3R/FreshTab-Pro/main/assets/icon128.png"><br />
+  <b>FreshTab-Pro</b><br />
+  <i>FreshTab-Pro is a browser extension that clears the cookies, local storage and session storage of the currently active tab with one click.</i>
 </p>
-# FreshTab-Pro
 
-FreshTab-Pro is a browser extension that clears the cookies, local storage and session storage of the currently active tab with one click.
+
+
 
 ## Features
 
