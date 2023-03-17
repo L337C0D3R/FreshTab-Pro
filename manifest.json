@@ -2,6 +2,11 @@
     "manifest_version": 2,
     "name": "Clear Storage and Cookies",
     "version": "1.0",
+    "icons": {
+        "16": "/assets/icon16.png",
+        "48": "/assets/icon48.png",
+        "128": "/assets/icon128.png"
+    },
     "permissions": [
         "activeTab",
         "cookies",
