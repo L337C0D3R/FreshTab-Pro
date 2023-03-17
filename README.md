@@ -5,7 +5,7 @@ FreshTab-Pro is a browser extension that clears the cookies, local storage and s
 ## Features
 
 - Clear cookies, local storage and session storage of any website
-- Works on any chromium based broswers (Chrome, Edge, Brave, Opera, etc.)
+- Works on any chromium based browers (Chrome, Edge, Brave, Opera, etc.)
 
 ## Installation
 
