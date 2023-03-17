@@ -1,4 +1,4 @@
-! [FreshTab-Pro] (https://raw.githubusercontent.com/L337C0D3R/FreshTab-Pro/main/assets/icon128.png)
+![FreshTab-Pro] (https://raw.githubusercontent.com/L337C0D3R/FreshTab-Pro/main/assets/icon128.png)
 
 # FreshTab-Pro
 
